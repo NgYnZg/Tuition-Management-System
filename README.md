@@ -4,12 +4,12 @@ The system supports different levels of coaching classes (Beginner, Intermediate
 for various programming modules and caters to four types of users: Administrators, Trainers, Lecturers, and Students.
 
 ## Technical Requirements
-Programming Language: C#/n
-Development Environment: Visual Studio/n
+Programming Language: C# /n
+Development Environment: Visual Studio /n
 User Interface: Graphical User Interface (GUI)/n
-Data Storage: Microsoft SQL Server or any supported database system/n
-Design Approach: Object-oriented programming concepts (classes, methods, objects)/n
-Validation: Input data validation to prevent errors/n
+Data Storage: Microsoft SQL Server or any supported database system /n
+Design Approach: Object-oriented programming concepts (classes, methods, objects) /n
+Validation: Input data validation to prevent errors /n
 
 ## Coding Style Requirements
 Use C# features/n
